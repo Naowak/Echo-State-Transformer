@@ -1,0 +1,9 @@
+torch
+torchvision
+tensorboard
+ipykernel
+seaborn
+tensorboard     
+datasets
+reservoirpy
+plotly
