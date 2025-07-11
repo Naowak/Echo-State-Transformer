@@ -1,5 +1,7 @@
 # Echo State Transformer (EST)
 
+📄 [Arxiv paper](https://www.arxiv.org/abs/2507.02917)
+
 This repository contains the implementation of Echo State Transformer (EST), a novel neural network architecture that combines principles from Echo State Networks and Transformer models. The code allows for comprehensive evaluation of EST against other sequential architectures (Transformers, LSTMs, GRUs) on the STREAM benchmark tasks.
 
 ## Table of Contents
@@ -154,3 +156,11 @@ jupyter notebook explore_results.ipynb
 - `exp-results/`: Contains results from experiments
 - `explore_results.ipynb`: Jupyter notebook for analyzing results
 - `requirements.txt`: Required Python packages
+
+## BibTex Citation
+
+> @article{bendi2025echo,  
+>  title={Echo State Transformer: When chaos brings memory},  
+>  author={Bendi-Ouis, Yannis and Hinaut, Xavier},  
+>  year={2025}  
+> }  
