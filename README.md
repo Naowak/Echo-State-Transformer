@@ -157,10 +157,10 @@ jupyter notebook explore_results.ipynb
 - `explore_results.ipynb`: Jupyter notebook for analyzing results
 - `requirements.txt`: Required Python packages
 
-## BibTex Citation
+## Reference
 
 > @article{bendi2025echo,  
 >  title={Echo State Transformer: When chaos brings memory},  
->  author={Bendi-Ouis, Yannis and Hinaut, Xavier},  
+>  author={Bendi-Ouis Yannis and Hinaut, Xavier},  
 >  year={2025}  
 > }  
