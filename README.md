@@ -161,6 +161,6 @@ jupyter notebook explore_results.ipynb
 
 > @article{bendi2025echo,  
 >  title={Echo State Transformer: When chaos brings memory},  
->  author={Bendi-Ouis Yannis and Hinaut, Xavier},  
+>  author={Bendi-Ouis Yannis and Hinaut Xavier},  
 >  year={2025}  
 > }  
